@@ -26,7 +26,6 @@ def while_iterator(number_of_times)
   while counter < number_of_times do
     puts phrase
     end
-  end
 end
 
 end
